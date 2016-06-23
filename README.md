@@ -1,8 +1,6 @@
 # hello-world-test
 just another repository
 
-124
-sdfa 
-sdfasd
-asdf
+update readme files just like update my files 
+i'll know how the github works
 
